@@ -3,12 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>stonegiantworkshop.github.io/categories/</loc>
+    <loc>stonegiantworkshop.github.io/posts/initial-post/</loc>
+    <lastmod>2019-11-30T14:55:26-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>stonegiantworkshop.github.io/posts/</loc>
+    <lastmod>2019-11-30T14:55:26-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>stonegiantworkshop.github.io/</loc>
+    <lastmod>2019-11-30T14:55:26-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>stonegiantworkshop.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
